@@ -2,7 +2,7 @@
 
 This is an unofficial Axera image downloader implementation in Rust to write image file into Axera SoCs.
 
-[日本語](./README.ja.md)
+[English](./README.md) | [日本語](./README.ja.md) | [中文](./README.zh.md)
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ cargo install axdl-cli
 
 You can run the web browser version from [https://www.fugafuga.org/axdl-rs/axdl-gui/latest/](https://www.fugafuga.org/axdl-rs/axdl-gui/latest/).
 
-![axdl-gui](./doc/axdl-gui.drawio.svg)
+![axdl-gui](./docs/axdl-gui.drawio.svg)
 
 1. Click `Open Image` and select the `.axp` file you want to flash.
 2. If you don’t want to flash the rootfs, check `Exclude rootfs`.

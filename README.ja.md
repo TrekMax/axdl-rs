@@ -2,7 +2,7 @@
 
 これは、Axera SoCにイメージファイルを書き込むための非公式のAxeraイメージダウンローダーのRust実装です。
 
-[English](./README.md)
+[English](./README.md) | [日本語](./README.ja.md) | [中文](./README.zh.md)
 
 ## 目次
 
@@ -55,7 +55,7 @@ cargo install axdl-cli
 
 Webブラウザ版は [https://www.fugafuga.org/axdl-rs/axdl-gui/latest/](https://www.fugafuga.org/axdl-rs/axdl-gui/latest/) から実行できます。
 
-![axdl-gui](./doc/axdl-gui.drawio.svg)
+![axdl-gui](./docs/axdl-gui.drawio.svg)
 
 1. `Open Image` を押して書き込みたい `.axp` ファイルを選択します。
 2. rootfsを書き込みたくないなら `Exclude rootfs` にチェックを入れます。
