@@ -2,7 +2,7 @@
 
 これは、Axera SoCにイメージファイルを書き込むための非公式のAxeraイメージダウンローダーのRust実装です。
 
-[English](./README.md)
+[English](./README.md) | [日本語](./README.ja.md) | [中文](./README.zh.md)
 
 ## 目次
 

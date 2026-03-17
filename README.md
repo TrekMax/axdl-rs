@@ -2,7 +2,7 @@
 
 This is an unofficial Axera image downloader implementation in Rust to write image file into Axera SoCs.
 
-[日本語](./README.ja.md)
+[English](./README.md) | [日本語](./README.ja.md) | [中文](./README.zh.md)
 
 ## Table of Contents
 
